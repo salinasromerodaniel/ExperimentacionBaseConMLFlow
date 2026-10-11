@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+mlflow_tracking.db
+mlflow_tracking.db-*
+mlruns/
+.DS_Store
